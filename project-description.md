@@ -1,4 +1,4 @@
-# Final Project: Data Analysis
+# Final Project
 
 * **Statistics 159/259, Fall 2025**
 * **Due Wednedsay 12/17/2025, 11:59PM PT**
@@ -63,6 +63,8 @@ LICENSING SCIENTIFIC INNOVATION](https://stodden.net/papers/ijclp-STODDEN-2009.p
 
 * A `binder` link: also deploy your repository on Binder, including the badge in your repository and ensuring that all notebooks can be executed for enhanced reproducibility.
 
+* `ai-documentation.txt`: as usual, please include a document describing how your group used any AI companions in the completion of the project. While the presence of this document shouldn't be strictly considered a "good repository practice" in real-world workflows, we will lump the presence of this document in with the grade for this component.
+
 ### Website
 
 Finally, we ask that you deploy your analyses to a MyST-generated website, hosted on GitHub Pages. Please take the time to consider how to best organize your websites to communicate the overall narrative of your project, from the main narrative document, to the individual analysis notebooks. Please also include the Binder badge somewhere in the website.
@@ -73,7 +75,18 @@ We also ask that you tag your repository on GitHub when you are finished, markin
 
 ## Grading
 
-We will evaluate the project as a whole. All the previous elements play a central role for the purposes of this class, and we expect to see all of them included in the final deliverable. The project is worth 100 points, and 30% of the final grade. To get some inspiration about how to organize and structure your projects, feel free to take a look at the following projects which scored very highly in the Spring 2023 version of this class.
+All the previous elements play a central role for the purposes of this class, and we expect to see all of them included in the final deliverable. The project is worth 100 points, and 30% of the final grade. Here's the grade breakdown for the different components:
+
++ Data Availability (5 pts)
++ Functional Structure of Code + Testing (15 pts)
++ Analysis Notebooks + Supporting Code (20 pts)
++ Main Narrative Notebook (20 pts)
++ Reproducibility Support (15 pts)
++ Good Repository Practices (10 pts)
++ Website (10 pts)
++ Release (5 pts)
+
+To get some inspiration about how to organize and structure your projects, feel free to take a look at the following projects which scored very highly in the Spring 2023 version of this class.
 
 + [Airbnb Europe Dataset Analysis](https://ucb-stat-159-s23.github.io/project-Group28/README.html)
 + [An Analysis on Animal Shelter Data from Sonoma County, CA](https://ucb-stat-159-s23.github.io/project-Group12/README.html#)
