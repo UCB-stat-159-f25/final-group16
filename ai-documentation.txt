@@ -1,0 +1,9 @@
+Group 16 Use of AI in Final Project:
+
+Part 1, Carly - 
+
+Part 2, Sami - how to change MP to float? use as.type 
+
+Part 3, Josh -
+
+Part 4, Ziyu - 
