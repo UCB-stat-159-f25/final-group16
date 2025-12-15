@@ -4,6 +4,15 @@
 
 # Final Project: NBA Player Statistical Analysis from 2024-2025 Season
 
-The goal of this final project is to 
+## Project Overview
+This project analyzes game-level NBA player statistics from the 2024–2025 season to understand player consistency, performance efficiency, and team-level factors contributing to winning. Using EDA and simple statistical models, we investigate how individual and team behaviors relate to scoring, assists, rebounds, shooting efficiency, and wins.
+
+Our goal is to answer interpretable, basketball-relevant questions using reproducible data science workflows.
+
+## Dataset
+- **Source:** Kaggle — *NBA Player Stats – Season 24/25*
+- **Size:** ~16,513 player-game observations
+- **Players:** 562 unique players
+- **Variables:** 24 statistical metrics (PTS, AST, TRB, FG%, 3P%, FT%, minutes, turnovers, etc.)
 
 MyST Link: https://ucb-stat-159-f25.github.io/final-group16/
