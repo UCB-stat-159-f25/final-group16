@@ -28,4 +28,4 @@ def test_add_per_minute_stats_clips_zero_minutes():
     out = add_per_minute_stats(df)
 
     assert np.isclose(out.loc[0, "PTS_per_min"], 2.0)  # 20/10
-    assert np.isclose(out.loc[1, "PTS_per_min"], 5.0)  # 5/1 because MP clipped to 1
+    assert np.isclose(out.loc[1, "PTS_per_min"], 5.0)  # 5/1
