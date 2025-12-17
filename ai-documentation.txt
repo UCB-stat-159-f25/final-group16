@@ -5,6 +5,6 @@ q1: how to adjust figsize of the boxplots for q1
 
 Part 2, Sami - how to change MP to float, how to add a legend beside a scatterplot 
 
-Part 3, Josh -
+Part 3, Josh - q3: AI suggested corrwith() function for correlation.
 
 Part 4, Ziyu - 
