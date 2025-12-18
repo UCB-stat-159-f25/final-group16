@@ -7,4 +7,4 @@ Part 2, Sami - how to change MP to float, how to add a legend beside a scatterpl
 
 Part 3, Josh - q3: AI suggested corrwith() function for correlation.
 
-Part 4, Ziyu - 
+Part 4, Ziyu - I used AI assistance to help with the team-level aggregation step. I also used AI assistance to help implement statistical methods.
