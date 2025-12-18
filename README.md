@@ -16,3 +16,6 @@ Our goal is to answer interpretable, basketball-relevant questions using reprodu
 - **Variables:** 24 statistical metrics (PTS, AST, TRB, FG%, 3P%, FT%, minutes, turnovers, etc.)
 
 MyST Link: https://ucb-stat-159-f25.github.io/final-group16/
+
+Archive Release on Zenodo
+[![DOI](https://zenodo.org/badge/1109602899.svg)](https://doi.org/10.5281/zenodo.17972853)
