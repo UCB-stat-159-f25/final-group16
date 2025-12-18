@@ -1,14 +1,8 @@
-ENV_FILE = environment.yml
-
-.PHONY: env html clean
+.PHONY: env all
 
 env:
-	@echo "Creating/updating conda environment from $(ENV_FILE)..."
-	@conda env update -f $(ENV_FILE) || conda env create -f $(ENV_FILE)
+	conda env create -f environment.yml
 
-html:
-	@myst build --html
-
-clean:
-	@rm -rf figures
-	@echo "Cleaned figures, audio, and _build directories."
+all:
+	jupyter nbconvert --execute --to notebook --inplace notebooks/*.ipynb
+	jupyter nbconvert --to pdf notebooks/*.ipynb --output-dir pdf_builds
