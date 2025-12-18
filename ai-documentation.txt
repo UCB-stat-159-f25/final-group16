@@ -1,6 +1,6 @@
 Group 16 Use of AI in Final Project:
 
-Part 1, Carly - q0: how to fix "no tests ran in 0.85s" when running test function, using the .replace() function, using to_datetime function, verifying the assert calls in the test function. q1: how to adjust figsize of the boxplots for q1. q5: assistance with utilizing the summary() function to get the OLS regression results.
+Part 1, Carly - q0: how to fix "no tests ran in 0.85s" when running test function, using the .replace() function, using to_datetime function, verifying the assert calls in the test function. q1: how to adjust figsize of the boxplots for q1. q5: assistance with utilizing the summary() function to get the OLS regression results. 
 
 Part 2, Sami - how to change MP to float, how to add a legend beside a scatterplot 
 
